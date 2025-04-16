@@ -42,7 +42,7 @@ It’s a simple, clean, and extensible application that demonstrates usage of GU
   - View metadata of selected songs.
   - Store song and playlist data persistently using SQLite.
 
-## Work Flow(Mind Map)
+## Work Flow
   ![Main UI](MIND_MAP_MUSIC_PLAYER.png)
 
 
