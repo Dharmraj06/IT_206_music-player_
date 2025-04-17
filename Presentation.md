@@ -98,5 +98,4 @@ It’s a simple, clean, and extensible application that demonstrates usage of GU
 - Add shuffle and repeat features.
 - Improve UI with modern design patterns.
 - Cross-device sync using cloud.
-- API linking with online music platforms like Spotify, Youtube Music,etc.
-- media sharing b/w two devices
+
