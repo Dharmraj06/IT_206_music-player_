@@ -96,6 +96,6 @@ It’s a simple, clean, and extensible application that demonstrates usage of GU
 ## Future Work
 - Implement search functionality within the playlist.
 - Add shuffle and repeat features.
-- Improve UI with modern design patterns.
+- Improvements in UI.
 - Cross-device connection/syncronization.
 
