@@ -97,5 +97,5 @@ It’s a simple, clean, and extensible application that demonstrates usage of GU
 - Implement search functionality within the playlist.
 - Add shuffle and repeat features.
 - Improve UI with modern design patterns.
-- Cross-device sync using cloud.
+- Cross-device connection/syncronization.
 
