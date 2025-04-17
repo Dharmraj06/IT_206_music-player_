@@ -19,7 +19,7 @@ It’s a simple, clean, and extensible application that demonstrates usage of GU
 
 1. Clone the forked repository:
    bash
-   git clone https://github.com/Dharmraj06/music-player.git
+   git clone [Music Player](https://github.com/Dharmraj06/IT_206_music-player_/tree/master)
    cd music-player
    
 2. Open the project using *Qt Creator* or build manually using:
