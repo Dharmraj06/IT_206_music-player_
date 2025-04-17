@@ -85,13 +85,18 @@ It’s a simple, clean, and extensible application that demonstrates usage of GU
 
 ## Extra Features
 
-- *SQLite Integration*: Persistent playlist and song data across sessions.
-- *Drag and Drop Support*: Add songs by dragging files into the player.
-- *Volume Control and Progress Bar*: Interactive controls for user convenience.
-- *Metadata Extraction*: Using Qt Multimedia for displaying song info.
+- **Save Playlists**: The music player uses SQLite to save playlists and song data, ensuring they are available even after the application is closed.
+
+- **Drag and Drop Songs**: Users can easily add songs to the player by simply dragging files into the application.
+
+- **Volume and Progress Controls**: Interactive sliders allow users to adjust the volume and track the progress of the currently playing song.
+
+- **Song Info Display**: The player uses Qt Multimedia to extract and display song information like title, artist, album, and other metadata.
 
 ## Future Work
 - Implement search functionality within the playlist.
 - Add shuffle and repeat features.
 - Improve UI with modern design patterns.
 - Cross-device sync using cloud.
+- API linking with online music platforms like Spotify, Youtube Music,etc.
+- media sharing b/w two devices
