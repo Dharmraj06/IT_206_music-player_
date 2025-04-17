@@ -1,24 +1,28 @@
-Główna idea projektu: odtwarzacz muzyczny, dla każdego użytkownika sugerowane utwory 🤓
+# Music Player Project 🎵
 
-Piszemy w **c++**, korzystamy z **qt** i **sqlite-a**.
+**Main idea of the project**: A music player with song suggestions tailored for each user 🤓
 
-Przydatne strony/tutoriale:
-* [tutorial qt, youtube](https://www.youtube.com/playlist?list=PLS1QulWo1RIZiBcTr5urECberTITj7gjA) na youtube jest ich bardzo dużo
-* [tutorial, sqlite](https://www.tutorialspoint.com/sqlite/index.htm)
-* [dobry przewodnik po git-cie](http://rogerdudler.github.io/git-guide/index.pl.html)
+We are coding in **C++**, using **Qt** and **SQLite**.
 
+## Useful Websites / Tutorials
+- [Qt tutorial on YouTube](https://www.youtube.com/playlist?list=PLS1QulWo1RIZiBcTr5urECberTITj7gjA) – there are plenty on YouTube
+- [SQLite tutorial](https://www.tutorialspoint.com/sqlite/index.htm)
+- [Good Git guide](http://rogerdudler.github.io/git-guide/index.pl.html)
 
-Download list:
-* [sqlite3](https://sqlite.org/download.html)
-* [QT IDE](https://www.qt.io/download-open-source/?__hssc=152220518.2.1491851308247&__hstc=152220518.d659e36e51836f27c54dafacd652b2b8.1490452226435.1491735289943.1491851308247.9&__hsfp=2254599158&hsCtaTracking=f977210e-de67-475f-a32b-65cec207fd03%7Cd62710cd-e1db-46aa-8d4d-2f1c1ffdacea#section-2)
-* [git](https://git-scm.com/download/win)
-* najprawdopodogniej skorzystamy jeszcze z blblioteki [TagLib](http://taglib.org) do metadanych związanych z plikami muzycznymi 
+## Download List
+- [sqlite3](https://sqlite.org/download.html)  
+- [Qt IDE](https://www.qt.io/download-open-source/?__hssc=152220518.2.1491851308247&__hstc=152220518.d659e36e51836f27c54dafacd652b2b8.1490452226435.1491735289943.1491851308247.9&__hsfp=2254599158&hsCtaTracking=f977210e-de67-475f-a32b-65cec207fd03%7Cd62710cd-e1db-46aa-8d4d-2f1c1ffdacea#section-2)  
+- [Git](https://git-scm.com/download/win)  
+- [TagLib](http://taglib.org) – likely to be used for extracting metadata from music files
 
-**Szukajcie najbardziej aktualnych plików w branchach, aktualnie pracuję nad begin_window (ekran powitalny + logowanie się + rejestrowanie się).**
+## Current Status
+Look for the most up-to-date files in the branches.  
+Currently working on `begin_window` (welcome screen + login + registration).
 
-**Poniżej znajduje się schemat naszego projektu**
+## Project Diagram
 
+![Project Scheme](https://github.com/hjnowakowski/projekt1/blob/player/project_schemes/project_scheme.png)
 
-![](https://github.com/hjnowakowski/projekt1/blob/player/project_schemes/project_scheme.png)
+---
 
-Jak coś piszcie @hjnowakowski
+If you have any questions, message **@hjnowakowski**
