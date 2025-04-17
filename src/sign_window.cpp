@@ -2,7 +2,7 @@
 #include "ui_sign_window.h"
 #include <QMessageBox>
 #include "headers/global.h"
-
+#include <bits/stdc++.h>
 
 signingWindow::signingWindow(QWidget *parent) :
     QMainWindow(parent),
@@ -44,7 +44,7 @@ void signingWindow::on_pushButton_signin_clicked()
         return;
     }
 
-    if(age<="13"){
+    if(stoi(age)<= 13){
         ui->label_status->setText("You have to be at least 13 years to sign in😺");
         return;
     }
